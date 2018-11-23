@@ -1,0 +1,63 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (https://startbootstrap.com/template-overviews/1-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.pagination {
+  margin-bottom: 15px;
+}
+
+
+.super-font {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.sub-font {
+    font-family: 'Lora', serif;
+}
+
+.subhead {
+    font-size: 1.75rem;
+    line-height: 0.9;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    font-weight: 700;
+}
+
+.sml-font {
+    font-family: 'Lora', serif;
+    font-size: 12pt;
+    line-height: !important 5pt;
+}
+
+
+
+.headline {
+    font-size: 3.5rem;
+    line-height: 0.9;
+    margin-bottom: 0.25rem;
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
+.body-text {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin-top: 0.5rem;
+    margin-bottom: 3.75rem;
+
+}
+
+.link {
+    color: black !important;
+}
